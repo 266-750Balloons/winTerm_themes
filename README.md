@@ -1,6 +1,9 @@
 # winTerm_themes
 A few themes I've made for the Windows Terminal App, to paste into the JSON file.
 
+##Note
+I don't really use these that often anymore. I use Linux as my primary operating system now.
+
 To add them, open settings, open the JSON file, navigate to schemes, and paste this in. Make sure to add commas when necessary.
 
 Themes:
